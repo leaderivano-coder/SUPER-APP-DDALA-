@@ -1,0 +1,6 @@
+{
+  "name": "Ddala Super App",
+  "description": "Zero-Fraud Universal Request Engine powered by Gemini. Describe anything you want to find verified service providers and quality sellers at magic wholesale prices.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

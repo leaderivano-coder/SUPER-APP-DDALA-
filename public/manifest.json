@@ -1,0 +1,23 @@
+{
+  "name": "Ddala Super App - Zero Fraud Direct Sourcing",
+  "short_name": "Ddala",
+  "description": "Describe anything in Luganda or English to get direct wholesale prices from Kikuubo, Katwe, Kiyembe & Nakasero with 100% Zero-Fraud Escrow protection.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#059669",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "categories": ["business", "shopping", "finance", "productivity"]
+}
